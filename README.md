@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on synchronization and data bundling for wireless sensor networks (WSNs) and large-scale multi-building and multi-floor indoor localization based on deep neural networks (DNNs).
+- 🔭 I’m currently working on synchronization and data bundling for wireless sensor networks (WSNs)/Internet of Things (IoT) and large-scale multi-building and multi-floor indoor localization based on deep neural networks (DNNs) and Gaussian processes (GPs).
 
 <!--
 **kyeongsoo/kyeongsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
